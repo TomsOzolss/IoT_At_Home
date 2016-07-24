@@ -84,7 +84,7 @@ def sendMeasure(config_data, now_, measure_type, measure_value, deviceId, debugM
 
 
 ######################################
-# Gerister Connected Sensor in Cloud #
+# Register Connected Sensor in Cloud #
 ######################################
 def sendSensorRegistration(config_data, now_, sensorName, debugMode=1):    
 
